@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { ref } from "vue";
-import img0 from "./assets/image0.svg";
-import img1 from "./assets/image1.svg";
-import img2 from "./assets/image2.svg";
-import img3 from "./assets/image3.svg";
+import img0 from "./assets/image0.jpeg";
+import img1 from "./assets/image1.jpeg";
+import img2 from "./assets/image2.jpeg";
+import img3 from "./assets/image3.jpeg";
 
 const images = [img0, img1, img2, img3];
 const revealed = ref(false);
