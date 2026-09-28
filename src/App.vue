@@ -42,7 +42,7 @@ function draw() {
             @click="draw"
           >
             <div class="card-back-inner">
-              <div class="torii">👶</div>
+              <div class="torii">👴</div>
               <p class="card-hint">タップして♡</p>
             </div>
           </div>
